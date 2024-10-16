@@ -44,7 +44,7 @@ A web application built with React, Tailwindcss, Redux and Firebase for managing
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abel-alx-github/JobListingBoard.git
+   git clone https://github.com/Abel-alx-github/jobslistingboard.git
   
 Navigate to the project directory:
   ```bash
